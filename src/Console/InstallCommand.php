@@ -1,6 +1,6 @@
 <?php
 
-namespace Api\Helpers\Console;
+namespace Helpers\ApiHelpers\Console;
 
 use Illuminate\Console\Command;
 use Illuminate\Filesystem\Filesystem;
