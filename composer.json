@@ -1,5 +1,5 @@
 {
-    "name": "api/helpers",
+    "name": "helpers/api-helpers",
     "description": "This package help's me to make apis",
     "type": "library",
     "license": "MIT",
