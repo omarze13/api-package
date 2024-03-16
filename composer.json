@@ -1,0 +1,19 @@
+{
+    "name": "api/helpers",
+    "description": "This package help's me to make apis",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Api\\Helpers\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Omar Zekri",
+            "email": "omarzekri2222@gmial.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
