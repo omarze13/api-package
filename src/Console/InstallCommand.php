@@ -31,7 +31,7 @@ class InstallCommand extends Command
         (new FileSystem)->copyDirectory(__DIR__ . '/../../app/Traits', app_path('Traits'));
 
         //Routes...
-        copy(__DIR__ . '/../../routes/api.php', base_path('routes'));
+        copy(__DIR__ . '/../../routes/api.php', base_path('routes/api.php'));
 
         $this->components->info('Yor api helpers installed');
 
